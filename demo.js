@@ -1,5 +1,5 @@
 function myName () {
-    console.log('My name is Nikolay');
+    console.log('My name is Nikol');
 }
 
 myName()
